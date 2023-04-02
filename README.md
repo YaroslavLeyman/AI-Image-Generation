@@ -2,7 +2,7 @@
 ---
 Веб приложение для создания изображений. MERN stack
 
-[Ссылка на проект](https://imgai.itleiman.ru)
+[Ссылка на проект](https://generationAI.itleiman.ru)
 ---
 ## Функциональность
 

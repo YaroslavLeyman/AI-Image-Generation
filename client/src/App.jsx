@@ -13,7 +13,10 @@ const App = () => {
           <img src={logo} alt="logo" className="w-28 object-contain" />
         </Link>
 
-        <Link to="/create-post" className="font-inter font-medium bg-[#6469ff] text-white px-4 py-2 rounded-md">
+        <Link
+          to="/create-post"
+          className="font-inter font-medium bg-[#6469ff] text-white px-4 py-2 rounded-md"
+        >
           Создать свое изображение
         </Link>
       </header>
@@ -24,7 +27,7 @@ const App = () => {
         </Routes>
       </main>
     </BrowserRouter>
-  )
-}
+  );
+};
 
-export default App
+export default App;
